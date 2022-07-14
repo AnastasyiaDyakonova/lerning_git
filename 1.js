@@ -1,3 +1,3 @@
-function deductNumber(a, b) {
+function dedctNumber(a, b) {
 	retern a - b;
 }
